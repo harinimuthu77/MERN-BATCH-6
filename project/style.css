@@ -1,0 +1,6 @@
+@import url('https://img.freepik.com/free-photo/nature-landscape-with-black-sand-beach_23-2151380327.jpg?t=st=1718718713~exp=1718722313~hmac=6cd07ce7276acb58392fcb859d32ecc7303df2f945e2d9a3b7cf030a7c479f48&w=1380');
+.bg-image {
+    background-image: url('https://img.freepik.com/free-photo/nature-landscape-with-black-sand-beach_23-2151380327.jpg?t=st=1718718713~exp=1718722313~hmac=6cd07ce7276acb58392fcb859d32ecc7303df2f945e2d9a3b7cf030a7c479f48&w=1380');
+    height: 500px;
+    width: 300px;
+}
